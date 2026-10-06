@@ -1,0 +1,14 @@
+{
+  "name": "lit-atlas",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A visual atlas of world literature: books mapped by place, time, concepts and cultural values, with the connections between them.",
+  "scripts": {
+    "start": "python3 -m http.server 8000",
+    "test": "node scripts/validate.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fopearcano/lit-atlas.git"
+  }
+}
