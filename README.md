@@ -26,6 +26,8 @@ No build step. Open `index.html` directly, or serve the folder:
 npm start          # python3 -m http.server 8010
 ```
 
+Then open <http://localhost:8010>.
+
 D3 and topojson-client load from CDNs, as does the Natural Earth world outline (`world-atlas`).
 
 ## Data
