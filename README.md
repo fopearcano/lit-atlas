@@ -23,7 +23,7 @@ State is kept in the URL hash, so any view/selection can be shared (e.g. `#view=
 No build step. Open `index.html` directly, or serve the folder:
 
 ```sh
-npm start          # python3 -m http.server 8000
+npm start          # python3 -m http.server 8010
 ```
 
 D3 and topojson-client load from CDNs, as does the Natural Earth world outline (`world-atlas`).

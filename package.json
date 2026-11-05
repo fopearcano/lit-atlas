@@ -4,7 +4,7 @@
   "private": true,
   "description": "A visual atlas of world literature: books mapped by place, time, concepts and cultural values, with the connections between them.",
   "scripts": {
-    "start": "python3 -m http.server 8000",
+    "start": "python3 -m http.server 8010",
     "test": "node scripts/validate.js"
   },
   "repository": {
